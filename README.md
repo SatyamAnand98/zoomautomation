@@ -32,5 +32,8 @@ If you have multiply versions of Python installed, you can select which one with
 py -3.8 -m pip install pyautogui
 (This is the same as running pip install pyautogui.)
 
-Finally to run the desire, type the following command:
+Finally to run the code, type the following command:
 python3 zoomautomation.py
+
+
+<img src="https://github.com/SatyamAnand98/zoomautomation/blob/master/finalvideo.gif" width="100%">
