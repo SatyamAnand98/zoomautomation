@@ -35,5 +35,6 @@ py -3.8 -m pip install pyautogui
 Finally to run the code, type the following command:
 python3 zoomautomation.py
 
+[![Watch the video](https://i.dlpng.com/static/png/6925310_preview.png)](https://photos.app.goo.gl/69rLqoUewwSpJECCA)
 
 <img src="https://github.com/SatyamAnand98/zoomautomation/blob/master/finalvideo.gif" width="100%">
